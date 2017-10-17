@@ -12,8 +12,8 @@ Prerequisites:
 
 Running:
 Run the game by executing any of the following commands:
-*	python3 bomberman.py
-*	python bomberman.py
+*```	python3 bomberman.py```
+*```	python bomberman.py```
 
 Basic Controls :--
 
