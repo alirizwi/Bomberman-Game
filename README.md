@@ -1,21 +1,21 @@
-							BOMBERMAN
-***********************
-* Syed Mohd Ali Rizwi *
-***********************
+# BOMBERMAN
+#### By: Syed Mohd Ali Rizwi
 
 
 Bomberman - A fun game written in python.
 
-Prerequisites:
+
+##### Prerequisites:
 * python/python3
 * termcolor
 
-Running:
-Run the game by executing any of the following commands:
-*```	python3 bomberman.py```
-*```	python bomberman.py```
 
-Basic Controls :--
+Run the game by executing any of the following commands:
+
+``` python3 bomberman.py ``` or ``` python bomberman.py```
+
+
+##### Basic Controls :--
 
   Function     key
 
@@ -26,7 +26,8 @@ Basic Controls :--
 * Drop bomb 	b
 * Quit		q 
 
-Representation:
+
+##### Representation:
 
 '/' represents Bricks
 'B' represents Bomberman 
@@ -34,14 +35,16 @@ Representation:
 'e' represents the fire of explosion
 'X' The walls
 
-Functionality:
+
+##### Functionality:
 
 * The player is controlled by the user and the enemies move randomly on the board but cannot walk through walls or bricks.
 * Bomberman can drop a bomb which destroys bricks and enemies around it after 3 seconds .On killing an enemy, user scores 100 points and on breaking bricks user scores 20 points.
 * There are 3 levels of the game. On killing all the enemies, level is incremented increasing the difficulty of the game.
 * User win the game on passing all the levels.
 
-Implementation:
+
+##### Implementation:
 
 It is implemented in python following the OOP's Principles.
 Bonus Part:
